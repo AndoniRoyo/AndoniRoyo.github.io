@@ -15,6 +15,7 @@ Broadly speaking, my research focuses on **Differential Geometry**, **Partial Di
 3. *Ancient Solutions to Ricci Flow with Type I curvature growth* (joint with Stephen Lynch) -  [J. Geom. Anal. vol. 34, 119 (2024)](https://link.springer.com/article/10.1007/s12220-024-01558-0)
 
 ## Selected talks
+- British Isles Graduate Workshop VI: Minimal Surfaces **(Isle of Wight, 2025)**: *"Classification of genus zero shrinkers"*
 - Geometric Analysis, Differential Geometry and Relativity research seminar **(Tübingen, 2025)**: *"Singularity formation in coupled Ricci and Yang–Mills flow"*
 - Geometry and Topology seminar **(Madison, 2025)**: *"Sobolev conformal structures on closed 3-manifolds"*
 - Geometric Analysis, Differential Geometry and Relativity research seminar **(Tübingen, 2024)**: *"Sobolev conformal structures on closed 3-manifolds"*
