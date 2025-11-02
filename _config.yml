@@ -23,9 +23,9 @@ repository               : "AndoniRoyo/AndoniRoyo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/_APA1926.png"
+  avatar           : "perfilargazki.png"
   name             : "Andoni Royo Abrego"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Auf der Morgenstelle 10, Tuebingen, Germany"
   employer         : "Tübingen University"
