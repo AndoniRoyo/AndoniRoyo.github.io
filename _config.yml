@@ -23,7 +23,7 @@ repository               : "AndoniRoyo/AndoniRoyo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "_APA1926.png"
+  avatar           : "images/_APA1926.png"
   name             : "Andoni Royo Abrego"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
