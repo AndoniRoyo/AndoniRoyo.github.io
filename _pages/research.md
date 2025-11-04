@@ -10,7 +10,7 @@ Broadly speaking, my research focuses on **Differential Geometry**, **Partial Di
 - **General Relativity:** scalar curvature, positive energy theorems and foliations.
 
 ## Publications and preprints
-1. *Regularity of conformal structures on closed 3-manifolds* (joint with Rodrigo Avalos and Albachiara Cogo) - arXiv
+1. *Regularity of conformal structures on closed 3-manifolds* (joint with Rodrigo Avalos and Albachiara Cogo) - [arXiv](https://arxiv.org/abs/2511.00178)
 2. *Conformal Green functions and Yamabe metrics of Sobolev regularity* (joint with Rodrigo Avalos and Albachiara Cogo) - [arXiv](https://arxiv.org/abs/2507.01674)
 3. *Ancient Solutions to Ricci Flow with Type I curvature growth* (joint with Stephen Lynch) -  [J. Geom. Anal. vol. 34, 119 (2024)](https://link.springer.com/article/10.1007/s12220-024-01558-0)
 
