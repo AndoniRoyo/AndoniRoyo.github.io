@@ -4,10 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Broadly speaking, my research focuses on **Differential Geometry**, **Partial Differential Equations** and **Mathematical Physic**. More precisely, I employ techniques from nonlinear elliptic and parabolic PDEs to answer questions in geometry, often times motivated by physics. Some of the topics I am interested in are:
+My research focuses on **Geometric Analysis*, where one employs techniques from nonlinear elliptic and parabolic PDEs to answer questions in geometry and topology, often times motivated by physics. Some of the topics I am interested in are:
 - **Geometric flows** such as Ricci flow or Mean curvature flow.
 - **Geometric variational problems:** minimal surfaces, spectral geometry, the Yamabe problem and Yang–Mills connections.
-- **General Relativity:** scalar curvature, positive energy theorems and foliations.
+- **General Relativity:** scalar curvature, positive energy theorems and asymptotic foliations.
 
 ## Publications and preprints
 1. *Regularity of conformal structures on closed 3-manifolds* (joint with Rodrigo Avalos and Albachiara Cogo) - [arXiv](https://arxiv.org/abs/2511.00178)
