@@ -27,7 +27,7 @@ author:
   name             : "Andoni Royo Abrego"
   pronouns         : # example: "he/his"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Auf der Morgenstelle 10, Tübingen, Germany"
+  location         : # "Auf der Morgenstelle 10, Tübingen, Germany"
   employer         : "Tübingen University"
   uri              : # URL
   email            : "andoni.royo-abrego@uni-tuebingen.de" 
