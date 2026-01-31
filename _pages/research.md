@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research focuses on **Geometric Analysis*, where one employs techniques from nonlinear elliptic and parabolic PDEs to answer questions in geometry and topology, often times motivated by physics. Some of the topics I am interested in are:
+My research focuses on **Geometric Analysis**, where one employs techniques from nonlinear elliptic and parabolic PDEs to answer questions in geometry and topology, often times motivated by physics. Some of the topics I am interested in are:
 - **Geometric flows** such as Ricci flow or Mean curvature flow.
 - **Geometric variational problems:** minimal surfaces, spectral geometry, the Yamabe problem and Yang–Mills connections.
 - **General Relativity:** scalar curvature, positive energy theorems and asymptotic foliations.
