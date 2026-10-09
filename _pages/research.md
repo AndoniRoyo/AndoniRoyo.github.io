@@ -1,4 +1,4 @@
-Seminaire de Geometrie---
+---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -16,8 +16,7 @@ My research focuses on **Geometric Analysis**, where one employs techniques from
 4. *Ancient Solutions to Ricci Flow with Type I curvature growth* (joint with Stephen Lynch) -  [J. Geom. Anal. vol. 34, 119 (2024)](https://link.springer.com/article/10.1007/s12220-024-01558-0)
 
 ## Selected talks
-- Seminar of Differential Geometry **(IECL Nancy)**:
-  *"Bach-flat metrics and regularity theory of conformal structures"*
+- Seminar of Differential Geometry **(IECL Nancy)**: *"Bach-flat metrics and regularity theory of conformal structures"*
 - BeNeLux Mathematical Congress **(Antwerp, 2026)**: *"Regularity of conformal structures and applications in geometry"*
 - Analysis and PDE seminar **(BCAM Bilbao, 2026)**: *"The Yamabe problem for metrics of Sobolev regularity"*
 - Seminaire de Geometrie **(IMJ-PRG Paris, 2026)**: *"Regularity of conformal structures and applications in geometry"*
